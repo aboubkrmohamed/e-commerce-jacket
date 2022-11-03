@@ -1,0 +1,101 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 135,
+            "image": "./images/1.jpg"
+        },{
+            "id": 2,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 135,
+            "image": "./images/2.jpg"
+        },{
+            "id": 3,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 135,
+            "image": "./images/3.jpg"
+        },{
+            "id": 4,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 135,
+            "image": "./images/4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 135,
+            "image": "./images/pic1.png"
+        },
+        {
+            "id": 6,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 145,
+            "image": "./images/pic2.png"
+        },
+        {
+            "id": 7,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 155,
+            "image": "./images/pic3.png"
+        },
+        {
+            "id": 8,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 235,
+            "image": "./images/pic4.png"
+        },
+        {
+            "id": 9,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 140,
+            "image": "./images/pic5.png"
+
+        },
+        {
+            "id": 10,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 235,
+            "image": "./images/pic6.png"
+
+        },
+        {
+            "id": 11,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 195,
+            "image": "./images/pic7.png"
+        },
+        {
+            "id": 12,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 138,
+            "image": "./images/pic8.png"
+        },
+        {
+            "id": 13,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 165,
+            "image": "./images/pic9.png"
+        },
+        {
+            "id": 14,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 205,
+            "image": "./images/pic10.png"
+        },
+        {
+            "id": 15,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 115,
+            "image": "./images/pic11.png"
+        },
+        {
+            "id": 16,
+            "title": "Polar Skate Co Devil T Shirt",
+            "price": 140,
+            "image": "./images/pic5.png"
+
+        }
+    ]
+}
